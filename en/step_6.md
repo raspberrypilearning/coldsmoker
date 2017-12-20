@@ -1,4 +1,4 @@
-##Chamber made
+## Chamber made
 The final part of the build, the smoke chamber, can be as simple or as complex as you like. It just has to be reasonably (though not completely) airtight and be connected to the duct. Many people reuse something they have spare. We’ve come across folks using tea chests, wardrobes, cider barrels, fridges, and filing cabinets (do be careful that there aren’t any toxic paints or other substances, though). 
 
 We opted to build our own because we want it to be collapsible for easy storage. The design is about as simple as it’s possible to be. We used four sides of 61 cm × 55 cm hardboard with the top and bottom made of 61 cm × 61 cm hardboard (the sizes were determined by the stock available at our local hardware store). 
