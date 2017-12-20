@@ -1,0 +1,6 @@
+## Selecting wood
+There are a few different types of wood you can buy for smoking. Larger chunks (often around a centimetre cubed) are for hot smokers as they won’t smoulder in the right way for cold smokers. There are also various types of pellets and pucks that are designed for specific commercial smokers. For a home-built cold smoker, you want to get wood dust or fine wood chips designed for cold smoking. There are a few different sources available, but make sure you get some that are for food. 
+
+There are loads of different tree species available and some people will make you think that it’s essential that everything gets smoked in exactly the right species. Different woods do have different flavours, but the density of the smoke in the chamber and the length of time it’s smoked for has a far bigger effect. We’d recommend starting with a fruit wood like apple or cherry. These are a bit milder than some woods such as oak, which means it’s a little more forgiving of oversmoking so you’re less likely to end up with something that tastes like an ashtray. 
+
+If you create your own wood for smoking, remember that it has to be uncontaminated with oil. This means no chainsaws or other mechanical devices that use oil. Cold smokers don’t get hot enough to cleanly burn this oil, so you’ll just end up with an oily taste in your food.
