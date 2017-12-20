@@ -1,0 +1,14 @@
+##Chamber made
+The final part of the build, the smoke chamber, can be as simple or as complex as you like. It just has to be reasonably (though not completely) airtight and be connected to the duct. Many people reuse something they have spare. We’ve come across folks using tea chests, wardrobes, cider barrels, fridges, and filing cabinets (do be careful that there aren’t any toxic paints or other substances, though). 
+
+We opted to build our own because we want it to be collapsible for easy storage. The design is about as simple as it’s possible to be. We used four sides of 61 cm × 55 cm hardboard with the top and bottom made of 61 cm × 61 cm hardboard (the sizes were determined by the stock available at our local hardware store). 
+
+The four sides were joined with sections of 18 mm × 38 mm planed pine cut into roughly 150 mm lengths. The 18 mm wide edge was screwed into one of the box sides, leaving a slight lip where the hardboard poked out beyond the wood by about 1 mm. We joined the adjacent hardboard side to this by drilling a 7 mm hole through both the hardboard and pine and bolting it in place. Two of these joints in each corner held the box together. With this style of joint, you can simply unbolt the sides and the box comes apart. The small lip on the side pulls the sides together and minimises any gaps, though if you do find a little leakage, you can always tape the sides shut. It’s worth numbering the corners and writing this on both sides so you can reassemble it easily. 
+
+You’ll need some venting on the top of the smoke chamber to allow the smoke to escape, because if it can’t escape, then it won’t pull through from the firebox. We found that three 7 mm holes were sufficient to ensure a good airflow. Unfortunately, we discovered this after we’d drilled six 7 mm holes. If, like us, you find yourself over-ventilated, a little tape will solve the problem. 
+
+Beyond the bare box, the only things you need in your smoker are the thermometer, somewhere to put the things you’re smoking, and the end of the smoke duct. We pushed our thermometer through a 3 mm hole drilled into the side of the chamber to allow us to read it without opening the chamber (which lets a lot of smoke out). We made a rudimentary rack using galvanised fencing wire threaded through holes in the chamber, and placed an oven rack on this. Finally, we used a jigsaw to cut a circular hole for the duct. We made this larger than the duct, pushed the duct through and taped it on the inside. This was neater and more secure than taping to the outside, as we had to do with the firebox. 
+
+That was all there was to it. It took a little experimentation to get the right amount of wood dust and airflow holes, but within an hour of finishing the build, we were cold-smoking our first batch of food. 
+
+![Duct](images/duct.jpg)
