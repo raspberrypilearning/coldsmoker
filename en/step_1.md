@@ -1,25 +1,10 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+There are few things that you can turn your hacking skills to that can give you as much enjoyment as food. Most people eat around a thousand meals a year, so that’s a thousand chances to use your knowledge and skill to increase your happiness. To us, that sounds like a great area to focus on. We’ll start with a brilliant way of adding flavour to a wide range of foods such as meat, cheese, and fish: cold smoking. 
 
-### What you will make
+### Design
 
-Add something here to showcase here, for example:
+The three main things you need your smoker to do are produce smoke, cool the smoke, and apply the smoke to the food. None of these things is especially difficult, and the hardest thing for many DIY smokers is just getting them all into a limited amount of space. In most cases, this is done best by splitting the three tasks up into three separate physical parts.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![smoker](images/smoker1.jpeg)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
