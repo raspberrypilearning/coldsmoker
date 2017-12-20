@@ -6,5 +6,5 @@ There are few things that you can turn your hacking skills to that can give you 
 
 The three main things you need your smoker to do are produce smoke, cool the smoke, and apply the smoke to the food. None of these things is especially difficult, and the hardest thing for many DIY smokers is just getting them all into a limited amount of space. In most cases, this is done best by splitting the three tasks up into three separate physical parts.
 
-![smoker](images/smoker1.jpeg)
+![smoker](images/smoker1.jpg)
 
