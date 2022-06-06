@@ -7,17 +7,15 @@ duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum:
-interests:
-technologies:
+curriculum: 
+interests: 
+technologies: 
 site_areas: HackSpace
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Firebox
 - title: Selecting wood
 - title: Ducting
 - title: Smoke chamber
-  completion: internal
 - title: Delicious food
